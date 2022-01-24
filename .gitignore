@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+bin
+build
+.gradle
+.vscode
+.DS_Store
+
 # Log file
 *.log
 
